@@ -1,0 +1,6 @@
+[submodule "historical-rainfall-analysis"]
+	path = historical-rainfall-analysis
+	url = https://github.com/longavailable/ydm-historical-rainfall-analysis.git
+[submodule "historical-rainfall-plotting"]
+	path = historical-rainfall-plotting
+	url = https://github.com/longavailable/ydm-historical-rainfall-plotting.git
