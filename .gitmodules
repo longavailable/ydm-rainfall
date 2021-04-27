@@ -4,3 +4,6 @@
 [submodule "historical-rainfall-plotting"]
 	path = historical-rainfall-plotting
 	url = https://github.com/longavailable/ydm-historical-rainfall-plotting.git
+[submodule "gcm-downscaling"]
+	path = gcm-downscaling
+	url = https://github.com/longavailable/ydm-gcm-downscaling.git
