@@ -7,3 +7,6 @@
 [submodule "gcm-downscaling"]
 	path = gcm-downscaling
 	url = https://github.com/longavailable/ydm-gcm-downscaling.git
+[submodule "rainfall-analysis"]
+	path = rainfall-analysis
+	url = https://github.com/longavailable/ydm-rainfall-analysis
